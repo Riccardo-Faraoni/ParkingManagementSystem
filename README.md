@@ -1,6 +1,7 @@
 # Parking Management System
 
 Parking Management System developed for the Siemens S7-1200 PLC and simulated using the HMI KTP700 Basic.
+You can find a video demonstration in this repository, as well as the technical report of this project.
 
 <img width="619" height="332" alt="image" src="https://github.com/user-attachments/assets/937e73e0-1e35-470d-a809-005e2e461ca4" />
 
